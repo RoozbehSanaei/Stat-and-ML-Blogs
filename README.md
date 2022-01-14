@@ -3,4 +3,5 @@ This collection aims to gather blogs and online  resources that explain differen
 
 
 ## General Concepts
-[Probablity vs Statistics](https://stats.stackexchange.com/questions/665/whats-the-difference-between-probability-and-statistics)
+[Probablity vs Statistics](https://stats.stackexchange.com/questions/665/whats-the-difference-between-probability-and-statistics)\
+[Likelihoodist, Bayesian, and Frequentist Methods](http://gandenberger.org/2014/07/21/intro-to-statistical-methods/)
