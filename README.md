@@ -16,6 +16,7 @@ This collection aims to gather blogs and online  resources that explain differen
 ## Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
-[Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
+[Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)\
+[Continous Uniform Distribution](https://en.wikipedia.org/wiki/Continuous_uniform_distribution)
 
 
