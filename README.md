@@ -20,7 +20,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
 [Pearson Correlation](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/10%3A_Regression_and_Correlation/10.02%3A_Correlation)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
-[Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
+[Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
 
 ## Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
