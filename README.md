@@ -22,12 +22,6 @@ This collection aims to gather blogs and online  resources that explain differen
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
 
-## Hypothesis Testing
-[Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
-[Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
-[Z-Score](https://statisticsbyjim.com/basics/z-score/)\
-[One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)
-
 ## Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
@@ -36,4 +30,9 @@ This collection aims to gather blogs and online  resources that explain differen
 [Poission distribution](https://www.le.ac.uk/users/dsgp1/COURSES/LEISTATS/poisson.pdf)\
 [Exponential distribution](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
 
+## Hypothesis Testing
+[Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
+[Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
+[Z-Score](https://statisticsbyjim.com/basics/z-score/)\
+[One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)
 
