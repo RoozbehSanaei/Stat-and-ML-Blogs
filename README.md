@@ -18,7 +18,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
 [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)\
 [Continous Uniform Distribution](https://en.wikipedia.org/wiki/Continuous_uniform_distribution)\
-[Poission distribution](https://www.le.ac.uk/users/dsgp1/COURSES/LEISTATS/poisson.pdf)
+[Poission distribution](https://www.le.ac.uk/users/dsgp1/COURSES/LEISTATS/poisson.pdf)\
 [Exponential distribution](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
 
 
