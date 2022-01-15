@@ -34,5 +34,6 @@ This collection aims to gather blogs and online  resources that explain differen
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
-[One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)
+[One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)\
+[Two Sample Z-test](http://www.stat.ucla.edu/~cochran/stat10/winter/lectures/lect21.html)
 
