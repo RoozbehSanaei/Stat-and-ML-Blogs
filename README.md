@@ -1,4 +1,4 @@
-# Statistics-Simplified
+# Statistics Simplified
 This collection aims to gather blogs and online  resources that explain different statistical concepts simply and clearly
 
 
@@ -9,13 +9,12 @@ This collection aims to gather blogs and online  resources that explain differen
 
 ## Counting and Set Theory
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
-[Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
-[Experiment, Sample Space, Event, Probability Function, Random Variable](http://www.cs.toronto.edu/~anikolov/CSC473W20/Probability.pdf)\
+[Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)
 [pmf, pdf, cdf, ppf](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
-[Probability Axioms](https://math.unm.edu/~james/Probability2.pdf)
-
+[Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)
 
 ## Probability Distributions
+[Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
 [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
 
