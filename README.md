@@ -24,6 +24,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)
+[One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)
 
 ## Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
