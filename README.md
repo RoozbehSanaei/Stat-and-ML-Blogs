@@ -9,7 +9,7 @@ This collection aims to gather blogs and online  resources that explain differen
 
 ## Probability Theory
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
-[Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)
+[Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
 [Probabilities Axioms](https://math.unm.edu/~james/Probability2.pdf)\
 [pmf, pdf, cdf, ppf](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
 [Experiment, Sample space, Event, Probability function, Random variable](http://www.cs.toronto.edu/~anikolov/CSC473W20/Probability.pdf)\
