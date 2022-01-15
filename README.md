@@ -23,7 +23,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
-[Z-Score](https://statisticsbyjim.com/basics/z-score/)
+[Z-Score](https://statisticsbyjim.com/basics/z-score/)\
 [One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)
 
 ## Probability Distributions
