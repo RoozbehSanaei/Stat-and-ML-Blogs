@@ -21,6 +21,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Pearson Correlation](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/10%3A_Regression_and_Correlation/10.02%3A_Correlation)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
+
+## Hypothesis Testing
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
