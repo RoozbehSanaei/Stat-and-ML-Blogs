@@ -22,7 +22,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
-[Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)
+[Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)
 
 ## Probability Distributions
