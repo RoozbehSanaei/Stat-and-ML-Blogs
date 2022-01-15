@@ -37,4 +37,5 @@ This collection aims to gather blogs and online  resources that explain differen
 [One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)\
 [Two Sample Z-test](http://www.stat.ucla.edu/~cochran/stat10/winter/lectures/lect21.html)\
 [p-value](https://www.scribbr.com/statistics/p-value/)\
-[Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)
+[Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
+[Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)
