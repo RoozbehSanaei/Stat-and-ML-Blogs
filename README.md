@@ -14,6 +14,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)\
 [Transformations of Random Variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)\
 [Joint Probability Distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)
+[Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)
 
 ## Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
