@@ -11,7 +11,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)
 [pmf, pdf, cdf, ppf](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
-[Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)
+[Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)\
 [Transformations of Random Variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)
 
 ## Probability Distributions
