@@ -10,7 +10,7 @@ This collection aims to gather blogs and online  resources that explain differen
 ## Counting and Set Theory
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)
-[Pmf, Pdf, Cdf. Ppf](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)
+[Pmf, Pdf, Cdf, Ppf](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)
 
 ## Probability Distributions
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
