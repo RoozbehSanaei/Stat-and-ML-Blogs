@@ -56,7 +56,12 @@ This collection aims to gather blogs and online  resources that explain differen
 [ANOVA Assumptions](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php)\
 [Linear Combinations and Contrasts](http://users.stat.umn.edu/~helwig/notes/aov1-Notes.pdf)\
 [Fixed Effect, Random Effect and Mixed Effect models](https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode)\
-[Multiple Comparison Problem](https://towardsdatascience.com/an-overview-of-methods-to-address-the-multiple-comparison-problem-310427b3ba92)
+[Multiple Comparison Problem](https://towardsdatascience.com/an-overview-of-methods-to-address-the-multiple-comparison-problem-310427b3ba92)\
+[Bonferroni’s Correction](http://users.stat.umn.edu/~helwig/notes/aov1-Notes.pdf)\
+[Holm’s Step-Down and Hochberg’s Step-Up Procedure](https://en.wikipedia.org/wiki/Family-wise_error_rate)\
+[Studentized range distribution](https://en.wikipedia.org/wiki/Studentized_range_distribution)\
+[Turkey's Range Test](http://users.stat.umn.edu/~helwig/notes/OneWayANOVA.pdf)
+
 
 
 
