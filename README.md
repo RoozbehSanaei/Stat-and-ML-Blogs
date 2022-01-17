@@ -40,4 +40,5 @@ This collection aims to gather blogs and online  resources that explain differen
 [Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
 [Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)\
 [t-test](https://statisticsbyjim.com/hypothesis-testing/t-tests-t-values-t-distributions-probabilities/)\
-[paired t-test](https://online.stat.psu.edu/stat415/lesson/10/10.3)
+[Paired t-test](https://online.stat.psu.edu/stat415/lesson/10/10.3)\
+[Two Sample t-test, pooled and unpooled variances](https://online.stat.psu.edu/stat500/lesson/7/7.3/7.3.1)
