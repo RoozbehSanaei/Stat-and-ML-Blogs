@@ -47,7 +47,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)\
 [F-distribution](https://en.wikipedia.org/wiki/F-distribution)\
 [General Linear F-test](https://online.stat.psu.edu/stat462/node/135/)/
-[Calculating F-Statistic](https://www.mattblackwell.org/files/teaching/ftests.pdf)
+[Calculating F-Statistic](https://www.mattblackwell.org/files/teaching/ftests.pdf)\
+[Coding Systems For Categorical Variables](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis/)
 
 
 
