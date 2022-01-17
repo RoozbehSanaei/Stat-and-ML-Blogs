@@ -50,7 +50,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Calculating F-Statistic](https://www.mattblackwell.org/files/teaching/ftests.pdf)\
 [Coding Systems For Categorical Variables](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis/)\
 [One Way Anova](https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm)\
-[Anova Assumptions](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php)
+[ANOVA mathematical model](https://www.itl.nist.gov/div898/handbook/prc/section4/prc432.htm)
+[ANOVA Assumptions](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php)
 
 
 
