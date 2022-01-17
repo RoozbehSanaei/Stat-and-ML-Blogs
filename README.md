@@ -54,7 +54,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [One Way Anova](https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm)\
 [ANOVA mathematical model](https://www.itl.nist.gov/div898/handbook/prc/section4/prc432.htm)\
 [ANOVA Assumptions](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php)\
-[Fixed Effect, Random Effect and Mixed Effect models](http://users.stat.umn.edu/~helwig/notes/aov1-Notes.pdf)
+[Linear Combinations of Factor Level Means](http://users.stat.umn.edu/~helwig/notes/aov1-Notes.pdf)\
+[Fixed Effect, Random Effect and Mixed Effect models](https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode)
 
 
 
