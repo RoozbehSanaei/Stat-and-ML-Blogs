@@ -48,7 +48,9 @@ This collection aims to gather blogs and online  resources that explain differen
 [F-distribution](https://en.wikipedia.org/wiki/F-distribution)\
 [General Linear F-test](https://online.stat.psu.edu/stat462/node/135/)/
 [Calculating F-Statistic](https://www.mattblackwell.org/files/teaching/ftests.pdf)\
-[Coding Systems For Categorical Variables](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis/)
+[Coding Systems For Categorical Variables](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis/)\
+[One Way Anova](https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm)
+
 
 
 
