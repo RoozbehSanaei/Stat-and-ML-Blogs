@@ -22,7 +22,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
 
-## Probability Distributions
+### Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
 [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
 [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)\
