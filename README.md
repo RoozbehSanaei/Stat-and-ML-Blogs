@@ -53,7 +53,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Coding Systems For Categorical Variables](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis/)\
 [One Way Anova](https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm)\
 [ANOVA mathematical model](https://www.itl.nist.gov/div898/handbook/prc/section4/prc432.htm)\
-[ANOVA Assumptions](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php)
+[ANOVA Assumptions](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php)\
+[Fixed Effect, Random Effect and Mixed Effect models](http://users.stat.umn.edu/~helwig/notes/aov1-Notes.pdf)
 
 
 
