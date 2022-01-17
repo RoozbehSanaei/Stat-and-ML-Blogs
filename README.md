@@ -45,6 +45,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Chi-square distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)\
 [Chi-square test proof](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture11.pdf)
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)\
+
+### Multiple Hypothesis Testing
 [F-distribution](https://en.wikipedia.org/wiki/F-distribution)\
 [General Linear F-test](https://online.stat.psu.edu/stat462/node/135/)/
 [Calculating F-Statistic](https://www.mattblackwell.org/files/teaching/ftests.pdf)\
