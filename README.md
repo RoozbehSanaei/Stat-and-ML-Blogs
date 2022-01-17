@@ -39,5 +39,5 @@ This collection aims to gather blogs and online  resources that explain differen
 [p-value](https://www.scribbr.com/statistics/p-value/)\
 [Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
 [Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)\
-[t-distribution](https://statisticsbyjim.com/hypothesis-testing/t-tests-t-values-t-distributions-probabilities/)\
+[t-test](https://statisticsbyjim.com/hypothesis-testing/t-tests-t-values-t-distributions-probabilities/)\
 [paired t-test](https://online.stat.psu.edu/stat415/lesson/10/10.3)
