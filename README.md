@@ -60,7 +60,7 @@ This collection aims to gather blogs and online  resources that explain differen
 #### ANOVA
 [One Way Anova](https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm)\
 [ANOVA mathematical model](https://www.itl.nist.gov/div898/handbook/prc/section4/prc432.htm)\
-[ANOVA Assumptions](https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php)\
+[ANOVA Assumptions](https://sites.ualberta.ca/~lkgray/uploads/7/3/6/2/7362679/slides_-_anova_assumptions.pdf)\
 [Linear Combinations and Contrasts](http://users.stat.umn.edu/~helwig/notes/aov1-Notes.pdf)\
 [Fixed Effect, Random Effect and Mixed Effect models](https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode)\
 [Factorial and Unbalanced ANOVA](http://users.stat.umn.edu/~helwig/notes/aov2-Notes.pdf)
