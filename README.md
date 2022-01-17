@@ -31,6 +31,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Exponential distribution](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
 
 ## Hypothesis Testing
+### Z-test
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
@@ -39,12 +40,14 @@ This collection aims to gather blogs and online  resources that explain differen
 [p-value](https://www.scribbr.com/statistics/p-value/)\
 [Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
 [Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)\
+### t-rest
 [t-test](https://statisticsbyjim.com/hypothesis-testing/t-tests-t-values-t-distributions-probabilities/)\
 [Paired t-test](https://online.stat.psu.edu/stat415/lesson/10/10.3)\
 [Two Sample t-test, pooled and unpooled variances](https://online.stat.psu.edu/stat500/lesson/7/7.3/7.3.1)\
 [Chi-square distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)\
 [Chi-square test proof](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture11.pdf)\
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)\
+### Chi-square test
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
 
 ### Multiple Hypothesis Testing
