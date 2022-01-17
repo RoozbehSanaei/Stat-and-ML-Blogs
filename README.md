@@ -61,8 +61,13 @@ This collection aims to gather blogs and online  resources that explain differen
 [Holm’s Step-Down and Hochberg’s Step-Up Procedure](https://en.wikipedia.org/wiki/Family-wise_error_rate)\
 [Studentized range distribution](https://en.wikipedia.org/wiki/Studentized_range_distribution)\
 [Turkey's Range Test](http://users.stat.umn.edu/~helwig/notes/OneWayANOVA.pdf)\
-[Factorial and Unbalanced ANOVA](http://users.stat.umn.edu/~helwig/notes/aov2-Notes.pdf)
+[Factorial and Unbalanced ANOVA](http://users.stat.umn.edu/~helwig/notes/aov2-Notes.pdf)\
 
+### Multivariate Hypothesis Testing
+[MANOVA](https://online.stat.psu.edu/stat505/lesson/8)\
+[PCA](https://online.stat.psu.edu/stat505/lesson/11)\
+[Factor Analysis](https://online.stat.psu.edu/stat505/lesson/12)\
+[Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)
 
 
 
