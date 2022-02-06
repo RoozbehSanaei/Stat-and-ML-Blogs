@@ -56,6 +56,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)
 
 ### Non-Paramteric Tests 
+[Nonparametric Tests vs. Parametric Tests](https://statisticsbyjim.com/hypothesis-testing/nonparametric-parametric-tests)\
 [Mann Whitney U Test (Wilcoxon Rank Sum Test)](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)\
 [Wilcoxon Signed Rank Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
 [Sign Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
