@@ -54,9 +54,11 @@ This collection aims to gather blogs and online  resources that explain differen
 [Chi-square distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)\
 [Chi-square test proof](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture11.pdf)\
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)
-### Other Tests
-[Mann Whitney U Test (Wilcoxon Rank Sum Test)](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
 
+### Non-Paramteric Tests Tests
+[Mann Whitney U Test (Wilcoxon Rank Sum Test)](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)\
+[Wilcoxon Signed Rank Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
+[Sign Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)
 
 ### Bootstrapping
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
