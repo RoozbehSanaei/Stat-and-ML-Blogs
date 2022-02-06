@@ -17,10 +17,15 @@ This collection aims to gather blogs and online  resources that explain differen
 [Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)\
 [Transformations of Random Variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)\
 [Joint Probability Distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)\
-[Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
-[Pearson Correlation](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/10%3A_Regression_and_Correlation/10.02%3A_Correlation)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
+
+
+### Correlation 
+[Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
+[Pearson Correlation](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/10%3A_Regression_and_Correlation/10.02%3A_Correlation)\
+[Partial Correlation](https://towardsdatascience.com/partial-correlation-508353cd8b5)
+
 
 ### Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
