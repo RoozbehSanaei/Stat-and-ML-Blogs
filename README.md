@@ -25,7 +25,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
 [Pearson Correlation](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/10%3A_Regression_and_Correlation/10.02%3A_Correlation)\
 [Partial Correlation](https://towardsdatascience.com/partial-correlation-508353cd8b5)\
-[Kendall Rank Correlation](https://towardsdatascience.com/kendall-rank-correlation-explained-dee01d99c535)
+[Kendall Rank Correlation](https://www.statsdirect.com/help/nonparametric_methods/kendall_correlation.htm)
 
 
 ### Probability Distributions
