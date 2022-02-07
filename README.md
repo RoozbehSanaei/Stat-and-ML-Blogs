@@ -25,7 +25,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
 [Pearson Correlation](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/10%3A_Regression_and_Correlation/10.02%3A_Correlation)\
 [Partial Correlation](https://towardsdatascience.com/partial-correlation-508353cd8b5)\
-[Kendall Rank Correlation](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient\
+[Kendall Rank Correlation](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient)\
 [Wald Wolfowitz Run Test](https://accendoreliability.com/the-wald-wolfowitz-run-test-for-two-small-samples/)
 
 
