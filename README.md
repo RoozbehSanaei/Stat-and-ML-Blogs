@@ -11,8 +11,10 @@ This collection aims to gather blogs and online  resources that explain differen
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
 [Probability Axioms](https://math.unm.edu/~james/Probability2.pdf)\
-[pmf, pdf, cdf, ppf](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
-[Quantiles](https://prepnuggets.com/glossary/quantile/)\
+[Probability density function (pdf), the probability that the variate has a certain value](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
+[The cumulative distribution function (cdf), the probability that the variable takes a value less than or equal to a certain value](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
+[The percent point function (ppf), the inverse of the cumulative distribution function.](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
+[Quantiles, where a sample is divided into equal-sized, adjacent, subgroups](https://prepnuggets.com/glossary/quantile/)\
 [Experiment, Sample space, Event, Probability function, Random variable](http://www.cs.toronto.edu/~anikolov/CSC473W20/Probability.pdf)\
 [Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)\
 [Transformations of Random Variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)\
