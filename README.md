@@ -74,6 +74,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Calculating F-Statistic](https://www.mattblackwell.org/files/teaching/ftests.pdf)\
 [Coding Systems For Categorical Variables](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis/)
 #### ANOVA
+[What is ANOVA](https://www.spss-tutorials.com/anova-what-is-it/)\
 [One Way Anova](https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm)\
 [ANOVA mathematical model](https://www.itl.nist.gov/div898/handbook/prc/section4/prc432.htm)\
 [ANOVA Assumptions](https://sites.ualberta.ca/~lkgray/uploads/7/3/6/2/7362679/slides_-_anova_assumptions.pdf)\
