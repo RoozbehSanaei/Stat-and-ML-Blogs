@@ -96,6 +96,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Factor Analysis](https://online.stat.psu.edu/stat505/lesson/12)\
 [Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)
 
+#### Statistical Paradoxes
+[Monty Hall](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)
 
 
 
