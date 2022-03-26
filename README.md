@@ -9,7 +9,9 @@ This collection aims to gather blogs and online  resources that explain differen
 
 ## Set theroy
 [Set Equality](https://www.storyofmathematics.com/set-equality#:~:text=Set%20equality%20is%20the%20term,also%20exists%20in%20set%20B.)\
-[Subset and Proper Subset](https://www.onlinemathlearning.com/subsets.html#:~:text=If%20every%20member,solutions%20on%20subsets.)
+[Subset and Proper Subset](https://www.onlinemathlearning.com/subsets.html#:~:text=If%20every%20member,solutions%20on%20subsets.)\
+[Empty Set and Its Properties]
+(https://www.math.drexel.edu/~tolya/emptyset.pdf)
 
 ## Introduction to Probability 
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
