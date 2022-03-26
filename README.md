@@ -102,6 +102,6 @@ This collection aims to gather blogs and online  resources that explain differen
 
 #### Statistical Paradoxes
 [Monty Hall](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)
-
+[Russels Paradox](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)
 
 
