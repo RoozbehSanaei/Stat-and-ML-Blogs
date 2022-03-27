@@ -7,11 +7,6 @@ This collection aims to gather blogs and online  resources that explain differen
 [Likelihoodist, Bayesian, and Frequentist Methods](http://gandenberger.org/2014/07/21/intro-to-statistical-methods/)\
 [Mathematical Basis of Bayesian vs Frequentist Debate](https://stats.stackexchange.com/questions/230415/is-there-any-mathematical-basis-for-the-bayesian-vs-frequentist-debate)
 
-## Set theroy
-[Set Equality](https://www.storyofmathematics.com/set-equality#:~:text=Set%20equality%20is%20the%20term,also%20exists%20in%20set%20B.)\
-[Subset and Proper Subset](https://www.onlinemathlearning.com/subsets.html#:~:text=If%20every%20member,solutions%20on%20subsets.)\
-[Empty Set and Its Properties](https://www.math.drexel.edu/~tolya/emptyset.pdf)
-
 ## Introduction to Probability 
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
