@@ -101,3 +101,6 @@ This collection aims to gather blogs and online  resources that explain differen
 [Russels Paradox](https://www.quora.com/What-in-laymans-terms-is-Russells-Paradox)
 
 
+## Linear Regression
+[Conditional Expectation function](https://www.timlrx.com/blog/notes-on-regression-approximation-of-the-conditional-expectation-function)
+
