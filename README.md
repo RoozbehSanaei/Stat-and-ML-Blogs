@@ -102,5 +102,9 @@ This collection aims to gather blogs and online  resources that explain differen
 
 
 ## Linear Regression
-[Conditional Expectation function](https://www.timlrx.com/blog/notes-on-regression-approximation-of-the-conditional-expectation-function)
+[Ordinary Least Squares through minimising the sum of square errors](https://www.timlrx.com/blog/notes-on-regression-ols)\
+[Projection and Orthogonality](https://www.timlrx.com/blog/notes-on-regression-geometry)\
+[Method of Moments](https://www.timlrx.com/blog/notes-on-regression-method-of-moments)\
+
+
 
