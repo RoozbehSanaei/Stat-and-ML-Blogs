@@ -106,5 +106,5 @@ This collection aims to gather blogs and online  resources that explain differen
 [Projection and Orthogonality](https://www.timlrx.com/blog/notes-on-regression-geometry)\
 [Method of Moments](https://www.timlrx.com/blog/notes-on-regression-method-of-moments)\
 
-
+[Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)
 
