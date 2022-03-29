@@ -104,7 +104,9 @@ This collection aims to gather blogs and online  resources that explain differen
 ## Linear Regression
 [Ordinary Least Squares through minimising the sum of square errors](https://www.timlrx.com/blog/notes-on-regression-ols)\
 [Projection and Orthogonality](https://www.timlrx.com/blog/notes-on-regression-geometry)\
-[Method of Moments](https://www.timlrx.com/blog/notes-on-regression-method-of-moments)\
+[Method of Moments](https://en.wikipedia.org/wiki/Method_of_moments_(statistics))
 
+
+[Estimators](https://slideplayer.com/slide/16203181/)\
 [Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)
 
