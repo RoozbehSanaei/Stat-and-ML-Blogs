@@ -108,5 +108,5 @@ This collection aims to gather blogs and online  resources that explain differen
 
 
 [Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)
-
+[Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)\
+[Regression vs Correlation coefficients](https://www.graphpad.com/support/faq/what-is-the-difference-between-correlation-and-linear-regression/)
