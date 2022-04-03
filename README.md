@@ -111,3 +111,11 @@ This collection aims to gather blogs and online  resources that explain differen
 [Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)\
 [Regression vs Correlation coefficients](https://www.graphpad.com/support/faq/what-is-the-difference-between-correlation-and-linear-regression/)\
 [Bayesian Linear Regression](https://www.inovex.de/de/blog/bayesian-linear-regression-in-machine-learning/)
+
+
+# Causal Inference
+[Structural Causal Models](https://medium.data4sci.com/causal-inference-part-iv-structural-causal-models-df10a83be580)\
+[Chains, and Forks](https://medium.data4sci.com/causal-inference-part-v-chains-and-forks-7b0b088c346e)\
+[Colliders](https://medium.data4sci.com/causal-inference-part-vi-colliders-af07301c9a15)\
+[d-separation](https://medium.data4sci.com/causal-inference-part-vii-d-separation-aa74e361d34e)\
+[Model Testing and Causal Search](https://medium.data4sci.com/causal-inference-part-vii-d-separation-aa74e361d34e)\
