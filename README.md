@@ -119,3 +119,6 @@ This collection aims to gather blogs and online  resources that explain differen
 [Colliders](https://medium.data4sci.com/causal-inference-part-vi-colliders-af07301c9a15)\
 [d-separation](https://medium.data4sci.com/causal-inference-part-vii-d-separation-aa74e361d34e)\
 [Model Testing and Causal Search](https://medium.data4sci.com/causal-inference-part-vii-d-separation-aa74e361d34e)\
+[Interventions](https://medium.data4sci.com/causal-inference-part-ix-interventions-c3f94190191d)\
+[The Adjustment Formula](https://medium.data4sci.com/causal-inference-part-x-the-adjustment-formula-f9668469d76)\
+[Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)
