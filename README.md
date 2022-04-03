@@ -121,4 +121,5 @@ This collection aims to gather blogs and online  resources that explain differen
 [Model Testing and Causal Search](https://medium.data4sci.com/causal-inference-part-vii-d-separation-aa74e361d34e)\
 [Interventions](https://medium.data4sci.com/causal-inference-part-ix-interventions-c3f94190191d)\
 [The Adjustment Formula](https://medium.data4sci.com/causal-inference-part-x-the-adjustment-formula-f9668469d76)\
-[Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)
+[Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)\
+[Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
