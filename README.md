@@ -20,7 +20,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
 [A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)\
-[MCMC](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)
+[MCMC]()\
+[The Metropolis-hasting algorithm, here](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)[ and here ](https://www2.math.upenn.edu/~bmor/Metropolis.pdf)
 
 ### Correlation 
 [Covariance](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
