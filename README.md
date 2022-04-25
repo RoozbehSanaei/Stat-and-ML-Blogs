@@ -19,7 +19,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Joint Probability Distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
-[A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)
+[A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)\
+[MCMC](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)
 
 ### Correlation 
 [Covariance](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
@@ -76,7 +77,7 @@ This collection aims to gather blogs and online  resources that explain differen
 #### ANOVA
 [What is ANOVA](https://www.spss-tutorials.com/anova-what-is-it/)\
 [One Way Anova](https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm)\
-[ANOVA mathematical model](https://www.itl.nist.gov/div898/handbook/prc/section4/prc432.htm)\
+[ANOVA mathematical model](https://www.itl.nist.gov/diBv898/handbook/prc/section4/prc432.htm)\
 [ANOVA Assumptions](https://sites.ualberta.ca/~lkgray/uploads/7/3/6/2/7362679/slides_-_anova_assumptions.pdf)\
 [Linear Combinations and Contrasts](http://users.stat.umn.edu/~helwig/notes/aov1-Notes.pdf)\
 [Fixed Effect, Random Effect and Mixed Effect models](https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode)\
