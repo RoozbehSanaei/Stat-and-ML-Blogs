@@ -26,7 +26,9 @@ This collection aims to gather blogs and online  resources that explain differen
 [Importance Sampling](https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744)\
 [Inverse Transform Sampling](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54)\
 [The Metropolis-hasting algorithm](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)[ and also](https://www2.math.upenn.edu/~bmor/Metropolis.pdf)\
-[Gibbs Sampling](https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d)
+[Gibbs Sampling](https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d)\
+[Gibbs Sampling as a Special Case of Metropolis–Hastings](https://gregorygundersen.com/blog/2020/02/23/gibbs-sampling/)
+
 
 ### Correlation 
 [Covariance](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
