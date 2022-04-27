@@ -22,7 +22,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)\
 
 ### Bayesian Samplers
-[The Metropolis-hasting algorithm](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)[ and also](https://www2.math.upenn.edu/~bmor/Metropolis.pdf)
+[Rejection Sampling](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d)\
+[The Metropolis-hasting algorithm](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)[ and also](https://www2.math.upenn.edu/~bmor/Metropolis.pdf)\
 [Gibbs Sampling](https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d)
 
 ### Correlation 
