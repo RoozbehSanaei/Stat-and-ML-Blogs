@@ -23,6 +23,7 @@ This collection aims to gather blogs and online  resources that explain differen
 
 ### Bayesian Samplers
 [Rejection Sampling](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d)\
+[Importance Sampling](https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744)
 [The Metropolis-hasting algorithm](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)[ and also](https://www2.math.upenn.edu/~bmor/Metropolis.pdf)\
 [Gibbs Sampling](https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d)
 
