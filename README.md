@@ -19,7 +19,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Joint Probability Distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
-[A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)
+[A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)\
+[Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
 
 ### Bayesian Samplers
 [Rejection Sampling](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d)\
