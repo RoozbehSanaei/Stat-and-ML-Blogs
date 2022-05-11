@@ -116,13 +116,17 @@ This collection aims to gather blogs and online  resources that explain differen
 [Projection and Orthogonality](https://www.timlrx.com/blog/notes-on-regression-geometry)\
 [Method of Moments](https://en.wikipedia.org/wiki/Method_of_moments_(statistics))\
 [Linear Regression as Maximum Likelihoods](https://www.timlrx.com/blog/notes-on-regression-maximum-likelihood)
-
-[Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)\
 [Regression vs Correlation coefficients](https://www.graphpad.com/support/faq/what-is-the-difference-between-correlation-and-linear-regression/)\
 [Bayesian Linear Regression](https://www.inovex.de/de/blog/bayesian-linear-regression-in-machine-learning/)\
 [Applying SVD to Linear Regression](https://www.timlrx.com/blog/notes-on-regression-singular-vector-decomposition)\
 [Linear Regression Metrics](https://towardsdatascience.com/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467)
+
+## Estimators
+[Estimators](https://slideplayer.com/slide/16203181/)\
+[Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)\
+
+## Gaussian Process
+[Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
 # Causal Inference
 [Structural Causal Models](https://medium.data4sci.com/causal-inference-part-iv-structural-causal-models-df10a83be580)\
