@@ -108,8 +108,7 @@ This collection aims to gather blogs and online  resources that explain differen
 
 #### Statistical Paradoxes
 [Monty Hall](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)\
-[Russels Paradox]([https://www.quora.com/What-in-laymans-terms-is-Russells-Paradox](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
-
+[Russels Paradox]([https://www.quora.com/What-in-laymans-terms-is-Russells-Paradox])
 
 ## Linear Regression
 [Ordinary Least Squares through minimising the sum of square errors](https://www.timlrx.com/blog/notes-on-regression-ols)\
@@ -123,7 +122,7 @@ This collection aims to gather blogs and online  resources that explain differen
 
 ## Estimators
 [Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)
+[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
 
 ## Gaussian Process
 [Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
