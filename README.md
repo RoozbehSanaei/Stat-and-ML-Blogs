@@ -123,7 +123,7 @@ This collection aims to gather blogs and online  resources that explain differen
 
 ## Estimators
 [Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic)\
+[Difference between estimator and statistics]([https://www.quora.com/What-s-the-difference-between-an-estimator-and-a-statistic](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
 
 ## Gaussian Process
 [Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
