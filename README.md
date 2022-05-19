@@ -108,7 +108,7 @@ This collection aims to gather blogs and online  resources that explain differen
 
 #### Statistical Paradoxes
 [Monty Hall](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)\
-[Russels Paradox](https://www.quora.com/What-in-laymans-terms-is-Russells-Paradox)
+[Russels Paradox]([https://www.quora.com/What-in-laymans-terms-is-Russells-Paradox](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
 
 
 ## Linear Regression
