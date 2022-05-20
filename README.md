@@ -72,7 +72,8 @@ This collection aims to gather blogs and online  resources that explain differen
 [Mann Whitney U Test (Wilcoxon Rank Sum Test)](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)\
 [Wilcoxon Signed Rank Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
 [Sign Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
-[The Kruskal-Wallis Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric7.html)
+[The Kruskal-Wallis Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric7.html)\
+[Permutation Test](https://www.jwilber.me/permutationtest/)
 
 ### Bootstrapping
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
