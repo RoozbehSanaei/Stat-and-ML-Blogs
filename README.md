@@ -73,7 +73,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Wilcoxon Signed Rank Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
 [Sign Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
 [The Kruskal-Wallis Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric7.html)\
-[Permutation Test](https://www.jwilber.me/permutationtest/)
+[Permutation Test](https://www.jwilber.me/permutationtest/),[and also here](https://byuistats.github.io/Statistics-Notebook/PermutationTests.html)
 
 ### Bootstrapping
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
