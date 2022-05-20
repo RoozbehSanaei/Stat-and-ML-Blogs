@@ -11,6 +11,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
 [Probability Axioms](https://math.unm.edu/~james/Probability2.pdf)\
+[Properties of Variance](https://en.wikipedia.org/wiki/Variance#Properties)
 [pdf,cdf,ppt](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
 [Quantiles](https://prepnuggets.com/glossary/quantile/)\
 [Experiment, Sample space, Event, Probability function, Random variable](http://www.cs.toronto.edu/~anikolov/CSC473W20/Probability.pdf)\
@@ -18,11 +19,14 @@ This collection aims to gather blogs and online  resources that explain differen
 [Transformations of Random Variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)\
 [Joint Probability Distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
+
+
+### Bayesian Statistics
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
 [A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)\
 [Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
 
-### Bayesian Samplers
+#### Bayesian Samplers
 [Rejection Sampling](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d)\
 [Importance Sampling](https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744)\
 [Inverse Transform Sampling](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54)\
@@ -73,7 +77,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Wilcoxon Signed Rank Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
 [Sign Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
 [The Kruskal-Wallis Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric7.html)\
-[Permutation Test](https://www.jwilber.me/permutationtest/),[and also here](https://byuistats.github.io/Statistics-Notebook/PermutationTests.html)
+[Permutation Test](https://www.jwilber.me/permutationtest/)
 
 ### Bootstrapping
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
