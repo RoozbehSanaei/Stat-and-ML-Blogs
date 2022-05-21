@@ -92,7 +92,7 @@ This collection aims to gather blogs and online  resources that explain differen
 [Regression vs Correlation coefficients](https://www.graphpad.com/support/faq/what-is-the-difference-between-correlation-and-linear-regression/)\
 [Bayesian Linear Regression](https://www.inovex.de/de/blog/bayesian-linear-regression-in-machine-learning/)\
 [Applying SVD to Linear Regression](https://www.timlrx.com/blog/notes-on-regression-singular-vector-decomposition)\
-[Linear Regression Metrics](https://towardsdatascience.com/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467)
+[Linear Regression Metrics](https://towardsdatascience.com/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467)\
 [Multi Linear Regression and multicollinearity](https://towardsdatascience.com/multiple-linear-regression-8cf3bee21d8b)
 
 
