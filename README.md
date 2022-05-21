@@ -150,6 +150,7 @@ This collection aims to gather blogs and other online resources explaining stati
 [Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)\
 [Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
 
+# Machine Learning
 
 ## Decision Trees
 [Decision Tree Learning](https://pages.cs.wisc.edu/~dpage/cs760/decision-trees.pdf)\
