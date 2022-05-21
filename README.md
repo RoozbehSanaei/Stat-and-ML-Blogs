@@ -1,5 +1,5 @@
 # Statistics Blogs
-This collection aims to gather blogs and online  resources that explain different statistical concepts simply and clearly
+This collection aims to gather blogs and other online resources explaining statistical concepts simply and clearly.
 
 
 ## General Concepts
@@ -88,12 +88,13 @@ This collection aims to gather blogs and online  resources that explain differen
 [Ordinary Least Squares through minimising the sum of square errors](https://www.timlrx.com/blog/notes-on-regression-ols)\
 [Projection and Orthogonality](https://www.timlrx.com/blog/notes-on-regression-geometry)\
 [Method of Moments](https://en.wikipedia.org/wiki/Method_of_moments_(statistics))\
-[Linear Regression as Maximum Likelihoods](https://www.timlrx.com/blog/notes-on-regression-maximum-likelihood)\
+[Linear Regression as Maximum Likelihoods](https://www.timlrx.com/blog/notes-on-regression-maximum-likelihood)
 [Regression vs Correlation coefficients](https://www.graphpad.com/support/faq/what-is-the-difference-between-correlation-and-linear-regression/)\
 [Bayesian Linear Regression](https://www.inovex.de/de/blog/bayesian-linear-regression-in-machine-learning/)\
 [Applying SVD to Linear Regression](https://www.timlrx.com/blog/notes-on-regression-singular-vector-decomposition)\
 [Linear Regression Metrics](https://towardsdatascience.com/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467)\
-[Multi Linear Regression and multicollinearity](https://towardsdatascience.com/multiple-linear-regression-8cf3bee21d8b)[and also](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
+[Multi Linear Regression and multicollinearity](https://towardsdatascience.com/multiple-linear-regression-8cf3bee21d8b)[and also](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)\
+[Variance Inflation Factors](https://statisticsbyjim.com/regression/variance-inflation-factors/)
 
 
 ### Multiple Hypothesis Testing
