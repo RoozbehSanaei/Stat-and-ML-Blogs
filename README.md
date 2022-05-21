@@ -135,6 +135,7 @@ This collection aims to gather blogs and other online resources explaining stati
 [Estimators](https://slideplayer.com/slide/16203181/)\
 [Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
 
+
 ## Gaussian Process
 [Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
@@ -148,3 +149,17 @@ This collection aims to gather blogs and other online resources explaining stati
 [The Adjustment Formula](https://medium.data4sci.com/causal-inference-part-x-the-adjustment-formula-f9668469d76)\
 [Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)\
 [Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
+
+
+## Decision Trees
+[Decision Tree Learning](https://pages.cs.wisc.edu/~dpage/cs760/decision-trees.pdf)\
+[ID3, C4.5, C5.0, CART decision tree difference](https://blog.actorsfit.com/a?ID=01800-16f8ea67-422e-4850-b0b0-3749e5181112)\
+[C4.5 and C5.0 Algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)\
+[ID3 Algorithm](https://towardsdatascience.com/decision-trees-for-classification-id3-algorithm-explained-89df76e72df1#:~:text=the%20ID3%20algorithm%20selects%20the%20best%20feature%20at%20each%20step%20while%20building%20a%20Decision%20tree.%0ABefore%20you%20ask%2C%20the%20answer%20to%20the%20question%3A%20%E2%80%98How%20does%20ID3%20select%20the%20best%20feature%3F%E2%80%99%20is%20that%20ID3%20uses%20Information%20Gain%20or%20just%20Gain%20to%20find%20the%20best%20feature.)\
+[Pruning](https://towardsdatascience.com/build-better-decision-trees-with-pruning-8f467e73b107)\
+[Gini Impurity, Entropy, Classification Error](https://sebastianraschka.com/faq/docs/decision-tree-binary.html)
+
+## Ensemble Methods
+[Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
+[Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
+[Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
