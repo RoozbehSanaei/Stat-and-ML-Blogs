@@ -164,3 +164,9 @@ This collection aims to gather blogs and other online resources explaining stati
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
 [Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
+
+## Explanation Methods
+[Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
+[Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
+[Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
+
