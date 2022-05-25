@@ -8,6 +8,8 @@ This collection aims to gather blogs and other online resources explaining stati
 [Mathematical Basis of Bayesian vs Frequentist Debate](https://stats.stackexchange.com/questions/230415/is-there-any-mathematical-basis-for-the-bayesian-vs-frequentist-debate)
 
 ## Probability 
+[Expected Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/79a290ef627e8f975fcbf93ff869d8ec_MIT18_05S14_Reading4b.pdf)\
+[Variance Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b09f8047e25079e59d379a4d9782b621_MIT18_05S14_Reading5a.pdf)\
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
 [Probability Axioms](https://math.unm.edu/~james/Probability2.pdf)\
