@@ -8,10 +8,7 @@ This collection aims to gather blogs and other online resources explaining stati
 [Mathematical Basis of Bayesian vs Frequentist Debate](https://stats.stackexchange.com/questions/230415/is-there-any-mathematical-basis-for-the-bayesian-vs-frequentist-debate)
 
 ## Probability 
-[Expected Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/79a290ef627e8f975fcbf93ff869d8ec_MIT18_05S14_Reading4b.pdf)\
-[Properties of Expected Value](https://en.wikipedia.org/wiki/Expected_value#Properties)\
-[Variance Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b09f8047e25079e59d379a4d9782b621_MIT18_05S14_Reading5a.pdf)\
-[Properties of Variance](https://en.wikipedia.org/wiki/Variance#Properties)\
+
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
 [Probability Axioms](https://math.unm.edu/~james/Probability2.pdf)\
@@ -21,6 +18,10 @@ This collection aims to gather blogs and other online resources explaining stati
 [Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)\
 [Transformations of Random Variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)\
 [Joint Probability Distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)\
+[Expected Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/79a290ef627e8f975fcbf93ff869d8ec_MIT18_05S14_Reading4b.pdf)\
+[Properties of Expected Value](https://en.wikipedia.org/wiki/Expected_value#Properties)\
+[Variance Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b09f8047e25079e59d379a4d9782b621_MIT18_05S14_Reading5a.pdf)\
+[Properties of Variance](https://en.wikipedia.org/wiki/Variance#Properties)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 
 
