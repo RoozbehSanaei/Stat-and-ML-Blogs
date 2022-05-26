@@ -161,6 +161,8 @@ This collection aims to gather blogs and other online resources explaining stati
 
 # Machine Learning
 
+[Training, Development and Test sets](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)
+
 ## Decision Trees
 [Decision Tree Learning](https://pages.cs.wisc.edu/~dpage/cs760/decision-trees.pdf)\
 [ID3, C4.5, C5.0, CART decision tree difference](https://blog.actorsfit.com/a?ID=01800-16f8ea67-422e-4850-b0b0-3749e5181112)\
