@@ -21,7 +21,8 @@ This collection aims to gather blogs and other online resources explaining stati
 [Properties of Expected Value](https://en.wikipedia.org/wiki/Expected_value#Properties)\
 [Variance Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b09f8047e25079e59d379a4d9782b621_MIT18_05S14_Reading5a.pdf),
 [Properties of Variance](https://en.wikipedia.org/wiki/Variance#Properties)\
-[Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)
+[Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
+[Bayes Rule](https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb)
 
 ### Probability Distributions
 [Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
