@@ -45,9 +45,10 @@ This collection aims to gather blogs and other online resources explaining stati
 [Wald Wolfowitz Run Test](https://accendoreliability.com/the-wald-wolfowitz-run-test-for-two-small-samples/)
 
 ### Hypothesis Testing
-#### Z-test
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
+
+#### Z-test
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
 [One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)\
 [Two Sample Z-test](http://www.stat.ucla.edu/~cochran/stat10/winter/lectures/lect21.html)\
@@ -83,8 +84,10 @@ This collection aims to gather blogs and other online resources explaining stati
 [Regression vs Correlation coefficients](https://www.graphpad.com/support/faq/what-is-the-difference-between-correlation-and-linear-regression/)\
 [Bayesian Linear Regression](https://www.inovex.de/de/blog/bayesian-linear-regression-in-machine-learning/)\
 [Applying SVD to Linear Regression](https://www.timlrx.com/blog/notes-on-regression-singular-vector-decomposition)\
-[Linear Regression Metrics](https://towardsdatascience.com/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467)\
-[Variance Inflation Factors](https://statisticsbyjim.com/regression/variance-inflation-factors/)
+[Linear Regression Metrics](https://towardsdatascience.com/how-to-choose-the-best-linear-regression-model-a-comprehensive-guide-for-beginners-754480768467)
+
+#### Multi Linear Regression
+[Variance Inflation Factors](https://statisticsbyjim.com/regression/variance-inflation-factors/)\
 [Multi Linear Regression and multicollinearity](https://towardsdatascience.com/multiple-linear-regression-8cf3bee21d8b)[and also](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)\
 
 
