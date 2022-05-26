@@ -1,5 +1,5 @@
 # Statistics Blogs
-This collection aims to gather blogs and other online resources explaining statistical concepts simply and clearly.
+This collection aims to gather blogs and other online resources explaining basic statistical and machine learning concepts simply and clearly.
 
 
 ## General Concepts
