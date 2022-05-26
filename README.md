@@ -1,4 +1,4 @@
-# Statistics Blogs
+# Statistics and Machine Learning Blogs
 This collection aims to gather blogs and other online resources explaining basic statistical and machine learning concepts simply and clearly.
 
 
