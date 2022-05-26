@@ -2,11 +2,6 @@
 This collection aims to gather blogs and other online resources explaining basic statistical and machine learning concepts simply and clearly.
 
 
-## General Concepts
-[Probablity vs Statistics](https://stats.stackexchange.com/questions/665/whats-the-difference-between-probability-and-statistics)\
-[Likelihoodist, Bayesian, and Frequentist Methods](http://gandenberger.org/2014/07/21/intro-to-statistical-methods/)\
-[Mathematical Basis of Bayesian vs Frequentist Debate](https://stats.stackexchange.com/questions/230415/is-there-any-mathematical-basis-for-the-bayesian-vs-frequentist-debate)
-
 ## Probability 
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
@@ -35,6 +30,10 @@ This collection aims to gather blogs and other online resources explaining basic
 
 ## Statistics
 
+### General Concepts
+[Probablity vs Statistics](https://stats.stackexchange.com/questions/665/whats-the-difference-between-probability-and-statistics)\
+[Likelihoodist, Bayesian, and Frequentist Methods](http://gandenberger.org/2014/07/21/intro-to-statistical-methods/)\
+[Mathematical Basis of Bayesian vs Frequentist Debate](https://stats.stackexchange.com/questions/230415/is-there-any-mathematical-basis-for-the-bayesian-vs-frequentist-debate)
 
 
 ### Correlation 
