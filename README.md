@@ -21,22 +21,19 @@ This collection aims to gather blogs and other online resources explaining stati
 [Properties of Expected Value](https://en.wikipedia.org/wiki/Expected_value#Properties)\
 [Variance Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b09f8047e25079e59d379a4d9782b621_MIT18_05S14_Reading5a.pdf)\
 [Properties of Variance](https://en.wikipedia.org/wiki/Variance#Properties)\
-[Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
+[Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)
+
+### Probability Distributions
+[Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
+[Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
+[Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)\
+[Continous Uniform Distribution](https://en.wikipedia.org/wiki/Continuous_uniform_distribution)\
+[Poission distribution](https://www.le.ac.uk/users/dsgp1/COURSES/LEISTATS/poisson.pdf)\
+[Exponential distribution](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
+
 
 ## Statistics
 
-### Bayesian Statistics
-[Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
-[A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)\
-[Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
-
-#### Bayesian Samplers
-[Rejection Sampling](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d)\
-[Importance Sampling](https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744)\
-[Inverse Transform Sampling](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54)\
-[The Metropolis-hasting algorithm](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)[ and also](https://www2.math.upenn.edu/~bmor/Metropolis.pdf)\
-[Gibbs Sampling](https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d)\
-[Gibbs Sampling as a Special Case of Metropolis–Hastings](https://gregorygundersen.com/blog/2020/02/23/gibbs-sampling/)
 
 
 ### Correlation 
@@ -46,15 +43,6 @@ This collection aims to gather blogs and other online resources explaining stati
 [Partial Correlation](https://towardsdatascience.com/partial-correlation-508353cd8b5)\
 [Kendall Rank Correlation](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient)\
 [Wald Wolfowitz Run Test](https://accendoreliability.com/the-wald-wolfowitz-run-test-for-two-small-samples/)
-
-
-### Probability Distributions
-[Univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)\
-[Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)\
-[Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)\
-[Continous Uniform Distribution](https://en.wikipedia.org/wiki/Continuous_uniform_distribution)\
-[Poission distribution](https://www.le.ac.uk/users/dsgp1/COURSES/LEISTATS/poisson.pdf)\
-[Exponential distribution](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
 
 ### Hypothesis Testing
 #### Z-test
@@ -141,6 +129,20 @@ This collection aims to gather blogs and other online resources explaining stati
 
 ### Gaussian Process
 [Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
+
+
+### Bayesian Statistics
+[Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
+[A/B testing, Bayesian](https://app.datacamp.com/workspace/w/cff27c6e-b68b-42df-ad82-9b0d029b7f0d)\
+[Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
+
+#### Bayesian Samplers
+[Rejection Sampling](https://towardsdatascience.com/what-is-rejection-sampling-1f6aff92330d)\
+[Importance Sampling](https://towardsdatascience.com/importance-sampling-introduction-e76b2c32e744)\
+[Inverse Transform Sampling](https://towardsdatascience.com/an-insight-on-generating-samples-from-a-custom-probability-density-function-d0a06c290c54)\
+[The Metropolis-hasting algorithm](https://medium.com/towards-data-science/mcmc-intuition-for-everyone-5ae79fff22b1)[ and also](https://www2.math.upenn.edu/~bmor/Metropolis.pdf)\
+[Gibbs Sampling](https://towardsdatascience.com/gibbs-sampling-explained-b271f332ed8d)\
+[Gibbs Sampling as a Special Case of Metropolis–Hastings](https://gregorygundersen.com/blog/2020/02/23/gibbs-sampling/)
 
 ### Causal Inference
 [Structural Causal Models](https://medium.data4sci.com/causal-inference-part-iv-structural-causal-models-df10a83be580)\
