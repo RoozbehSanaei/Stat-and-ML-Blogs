@@ -46,7 +46,7 @@ This collection aims to gather blogs and other online resources explaining stati
 
 ### Hypothesis Testing
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
-[Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
+[Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)
 
 #### Z-test
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
