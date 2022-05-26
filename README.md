@@ -8,7 +8,6 @@ This collection aims to gather blogs and other online resources explaining stati
 [Mathematical Basis of Bayesian vs Frequentist Debate](https://stats.stackexchange.com/questions/230415/is-there-any-mathematical-basis-for-the-bayesian-vs-frequentist-debate)
 
 ## Probability 
-
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
 [Venn Diagrams](https://www.researchgate.net/figure/A-Venn-diagram-of-unions-and-intersections-for-two-sets-A-and-B-and-their-complements_fig1_332453167)\
 [Probability Axioms](https://math.unm.edu/~james/Probability2.pdf)\
@@ -24,6 +23,7 @@ This collection aims to gather blogs and other online resources explaining stati
 [Properties of Variance](https://en.wikipedia.org/wiki/Variance#Properties)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 
+## Statistics
 
 ### Bayesian Statistics
 [Bayesian Learning](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)\
@@ -56,8 +56,8 @@ This collection aims to gather blogs and other online resources explaining stati
 [Poission distribution](https://www.le.ac.uk/users/dsgp1/COURSES/LEISTATS/poisson.pdf)\
 [Exponential distribution](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
 
-## Hypothesis Testing
-### Z-test
+### Hypothesis Testing
+#### Z-test
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
@@ -66,16 +66,16 @@ This collection aims to gather blogs and other online resources explaining stati
 [p-value](https://www.scribbr.com/statistics/p-value/)\
 [Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
 [Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)
-### t-rest
+#### t-rest
 [t-test](https://statisticsbyjim.com/hypothesis-testing/t-tests-t-values-t-distributions-probabilities/)\
 [Paired t-test](https://online.stat.psu.edu/stat415/lesson/10/10.3)\
 [Two Sample t-test, pooled and unpooled variances](https://online.stat.psu.edu/stat500/lesson/7/7.3/7.3.1)
-### Chi-square test
+#### Chi-square test
 [Chi-square distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)\
 [Chi-square test proof](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture11.pdf)\
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)
 
-### Non-Paramteric Tests 
+#### Non-Paramteric Tests 
 [Nonparametric Tests vs. Parametric Tests](https://statisticsbyjim.com/hypothesis-testing/nonparametric-parametric-tests)\
 [Mann Whitney U Test (Wilcoxon Rank Sum Test)](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)\
 [Wilcoxon Signed Rank Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric5.html#headingtaglink_3)\
@@ -83,11 +83,11 @@ This collection aims to gather blogs and other online resources explaining stati
 [The Kruskal-Wallis Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric7.html)\
 [Permutation Test](https://www.jwilber.me/permutationtest/)
 
-### Bootstrapping
+#### Bootstrapping
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
 
 
-## Linear Regression
+### Linear Regression
 [Ordinary Least Squares through minimising the sum of square errors](https://www.timlrx.com/blog/notes-on-regression-ols)\
 [Projection and Orthogonality](https://www.timlrx.com/blog/notes-on-regression-geometry)\
 [Method of Moments](https://en.wikipedia.org/wiki/Method_of_moments_(statistics))\
@@ -134,15 +134,15 @@ This collection aims to gather blogs and other online resources explaining stati
 [Russels Paradox](https://www.quora.com/What-in-laymans-terms-is-Russells-Paradox)
 
 
-## Estimators
+### Estimators
 [Estimators](https://slideplayer.com/slide/16203181/)\
 [Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
 
 
-## Gaussian Process
+### Gaussian Process
 [Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
-# Causal Inference
+### Causal Inference
 [Structural Causal Models](https://medium.data4sci.com/causal-inference-part-iv-structural-causal-models-df10a83be580)\
 [Chains, and Forks](https://medium.data4sci.com/causal-inference-part-v-chains-and-forks-7b0b088c346e)\
 [Colliders](https://medium.data4sci.com/causal-inference-part-vi-colliders-af07301c9a15)\
