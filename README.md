@@ -181,3 +181,12 @@ This collection aims to gather blogs and other online resources explaining stati
 [Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
 [Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
 
+## Imbalanced Datasets
+[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
+
+
+### Data Set Shift
+[Data Set Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)\
+[Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
+
+
