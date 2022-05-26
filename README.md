@@ -158,11 +158,11 @@ This collection aims to gather blogs and other online resources explaining basic
 [Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)\
 [Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
 
-# Machine Learning
+## Machine Learning
 
 [Training, Development and Test sets](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)
 
-## Decision Trees
+### Decision Trees
 [Decision Tree Learning](https://pages.cs.wisc.edu/~dpage/cs760/decision-trees.pdf)\
 [ID3, C4.5, C5.0, CART decision tree difference](https://blog.actorsfit.com/a?ID=01800-16f8ea67-422e-4850-b0b0-3749e5181112)\
 [C4.5 and C5.0 Algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)\
@@ -170,17 +170,17 @@ This collection aims to gather blogs and other online resources explaining basic
 [Pruning](https://towardsdatascience.com/build-better-decision-trees-with-pruning-8f467e73b107)\
 [Gini Impurity, Entropy, Classification Error](https://sebastianraschka.com/faq/docs/decision-tree-binary.html)
 
-## Ensemble Methods
+### Ensemble Methods
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
 [Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
 
-## Explanation Methods
+### Explanation Methods
 [Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
 [Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
 [Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
 
-## Imbalanced Datasets
+### Imbalanced Datasets
 [Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 
 
