@@ -172,6 +172,10 @@ This collection aims to gather blogs and other online resources explaining basic
 [Pruning](https://towardsdatascience.com/build-better-decision-trees-with-pruning-8f467e73b107)\
 [Gini Impurity, Entropy, Classification Error](https://sebastianraschka.com/faq/docs/decision-tree-binary.html)
 
+### Expectation Maximization (Kmeans, and GMM)
+[K-means clustering](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)\
+[Gaussian Mixture Modeling](https://towardsdatascience.com/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6)
+
 ### Ensemble Methods
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
