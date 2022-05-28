@@ -90,6 +90,10 @@ This collection aims to gather blogs and other online resources explaining basic
 [Variance Inflation Factors](https://statisticsbyjim.com/regression/variance-inflation-factors/)\
 [Multi Linear Regression and multicollinearity](https://towardsdatascience.com/multiple-linear-regression-8cf3bee21d8b)[and also](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)\
 
+#### Bias-Variance
+[Bias-Variance Decomposition of the Squared Loss](http://rasbt.github.io/mlxtend/user_guide/evaluate/bias_variance_decomp/)\
+[Bias-Variance Trade off](https://juhiramzai.medium.com/holy-grail-for-bias-variance-tradeoff-overfitting-underfitting-7fad64ab5d76)\
+[Regualization: the path to Bias-Variance Trade-off](https://medium.com/towards-data-science/regularization-the-path-to-bias-variance-trade-off-b7a7088b4577)
 
 ### Multiple Hypothesis Testing
 #### F-Test
@@ -162,11 +166,6 @@ This collection aims to gather blogs and other online resources explaining basic
 
 [Training, Development and Test sets](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)\
 [Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
-
-### Bias-Variance
-[Bias-Variance Decomposition of the Squared Loss](http://rasbt.github.io/mlxtend/user_guide/evaluate/bias_variance_decomp/)\
-[Bias-Variance Trade off](https://juhiramzai.medium.com/holy-grail-for-bias-variance-tradeoff-overfitting-underfitting-7fad64ab5d76)\
-[Regualization: the path to Bias-Variance Trade-off](https://medium.com/towards-data-science/regularization-the-path-to-bias-variance-trade-off-b7a7088b4577)
 
 ### Decision Trees
 [Decision Tree Learning](https://pages.cs.wisc.edu/~dpage/cs760/decision-trees.pdf)\
