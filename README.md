@@ -161,8 +161,10 @@ This collection aims to gather blogs and other online resources explaining basic
 ## Machine Learning
 
 [Training, Development and Test sets](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)\
-
 [Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)
+
+[Bias-Variance Trade off](https://juhiramzai.medium.com/holy-grail-for-bias-variance-tradeoff-overfitting-underfitting-7fad64ab5d76)\
+[Regualization: the path to Bias-Variance Trade-off](https://medium.com/towards-data-science/regularization-the-path-to-bias-variance-trade-off-b7a7088b4577)
 
 ### Decision Trees
 [Decision Tree Learning](https://pages.cs.wisc.edu/~dpage/cs760/decision-trees.pdf)\
