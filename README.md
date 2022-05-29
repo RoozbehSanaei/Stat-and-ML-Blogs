@@ -72,9 +72,6 @@ This collection aims to gather blogs and other online resources explaining basic
 [The Kruskal-Wallis Test](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/BS704_Nonparametric7.html)\
 [Permutation Test](https://www.jwilber.me/permutationtest/)
 
-#### Bootstrapping
-[Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
-
 
 ### Linear Regression
 [Ordinary Least Squares through minimising the sum of square errors](https://www.timlrx.com/blog/notes-on-regression-ols)\
@@ -131,11 +128,7 @@ This collection aims to gather blogs and other online resources explaining basic
 
 ### Estimators
 [Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
-
-
-### Gaussian Process
-[Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
+[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic
 
 
 ### Bayesian Statistics
@@ -162,16 +155,14 @@ This collection aims to gather blogs and other online resources explaining basic
 [Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)\
 [Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
 
+[Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
+[Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
+
 ## Machine Learning
 
 ### Data Splitting
 [The Importance of Data Splitting](https://mlu-explain.github.io/train-test-validation/)\
 [Training, Development and Test errors](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)
-
-[Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
-[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
-[Data Set Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)\
-[Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
 
 ### Decision Trees
 [Decision Trees](https://mlu-explain.github.io/decision-tree/)\
@@ -198,5 +189,10 @@ This collection aims to gather blogs and other online resources explaining basic
 [Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
 [Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
 [Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
+
+[Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
+[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
+[Data Set Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)\
+[Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
 
 
