@@ -93,7 +93,6 @@ This collection aims to gather blogs and other online resources explaining basic
 #### Bias-Variance
 [Bias-Variance Decomposition of the Squared Loss](http://rasbt.github.io/mlxtend/user_guide/evaluate/bias_variance_decomp/)\
 [Bias-Variance Trade-off and Double Descent](https://mlu-explain.github.io/bias-variance/)\
-[Bias-Variance Trade off](https://juhiramzai.medium.com/holy-grail-for-bias-variance-tradeoff-overfitting-underfitting-7fad64ab5d76)\
 [Regualization: the path to Bias-Variance Trade-off](https://medium.com/towards-data-science/regularization-the-path-to-bias-variance-trade-off-b7a7088b4577)
 
 ### Multiple Hypothesis Testing
