@@ -153,7 +153,7 @@ This collection aims to gather blogs and other online resources explaining basic
 [Interventions](https://medium.data4sci.com/causal-inference-part-ix-interventions-c3f94190191d)\
 [The Adjustment Formula](https://medium.data4sci.com/causal-inference-part-x-the-adjustment-formula-f9668469d76)\
 [Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)\
-[Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)\
+[Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
 
 [Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)\
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
