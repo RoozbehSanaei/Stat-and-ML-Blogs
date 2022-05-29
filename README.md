@@ -153,9 +153,9 @@ This collection aims to gather blogs and other online resources explaining basic
 [Interventions](https://medium.data4sci.com/causal-inference-part-ix-interventions-c3f94190191d)\
 [The Adjustment Formula](https://medium.data4sci.com/causal-inference-part-x-the-adjustment-formula-f9668469d76)\
 [Backdoor Criterion](https://medium.data4sci.com/causal-inference-part-xi-backdoor-criterion-e29627a1da0e)\
-[Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)
+[Front-door Criterion](https://medium.data4sci.com/causal-inference-part-xii-front-door-criterion-38bec5172f3e)\
 
-[Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
+[Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)\
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
 
 ## Machine Learning
@@ -188,7 +188,7 @@ This collection aims to gather blogs and other online resources explaining basic
 ### Explanation Methods
 [Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
 [Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
-[Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
+[Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)\
 
 [Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
 [Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
