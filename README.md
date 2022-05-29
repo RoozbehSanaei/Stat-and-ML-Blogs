@@ -88,7 +88,7 @@ This collection aims to gather blogs and other online resources explaining basic
 
 #### Multi Linear Regression
 [Variance Inflation Factors](https://statisticsbyjim.com/regression/variance-inflation-factors/)\
-[Multi Linear Regression and multicollinearity](https://towardsdatascience.com/multiple-linear-regression-8cf3bee21d8b)[and also](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)\
+[Multi Linear Regression and multicollinearity](https://towardsdatascience.com/multiple-linear-regression-8cf3bee21d8b)[and also](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
 
 #### Bias-Variance
 [Bias-Variance Decomposition of the Squared Loss](http://rasbt.github.io/mlxtend/user_guide/evaluate/bias_variance_decomp/)\
