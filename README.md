@@ -164,9 +164,9 @@ This collection aims to gather blogs and other online resources explaining basic
 
 ## Machine Learning
 
-### Training, Development and Test sets
-[Training, Development and Test sets](https://mlu-explain.github.io/train-test-validation/)\
-[Training, Development and Test errors](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)\
+### Data Splitting
+[The Importance of Data Splitting](https://mlu-explain.github.io/train-test-validation/)\
+[Training, Development and Test errors](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)
 
 [Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
 [Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
