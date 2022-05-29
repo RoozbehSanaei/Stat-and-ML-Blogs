@@ -128,7 +128,7 @@ This collection aims to gather blogs and other online resources explaining basic
 
 ### Estimators
 [Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic
+[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
 
 
 ### Bayesian Statistics
