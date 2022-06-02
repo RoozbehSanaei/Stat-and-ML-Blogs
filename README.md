@@ -189,7 +189,7 @@ This collection aims to gather blogs and other online resources explaining basic
 [Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
 [Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
 [Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)\
-[Global Surrogates](https://christophm.github.io/interpretable-ml-book/global.html)
+[Global Surrogate](https://christophm.github.io/interpretable-ml-book/global.html)
 
 [Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
 [Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
