@@ -46,7 +46,7 @@ This collection aims to gather blogs and other online resources explaining basic
 
 ### Estimators
 [Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
+[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [MLE vs MAP Estimation](https://medium.com/towards-data-science/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d)\
 [MLE vs MAP Bayesian Inference](https://medium.com/towards-data-science/mle-map-and-bayesian-inference-3407b2d6d4d9)
