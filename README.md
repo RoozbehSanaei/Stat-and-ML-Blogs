@@ -16,7 +16,6 @@ This collection aims to gather blogs and other online resources explaining basic
 [Properties of Expected Value](https://en.wikipedia.org/wiki/Expected_value#Properties)\
 [Variance Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/b09f8047e25079e59d379a4d9782b621_MIT18_05S14_Reading5a.pdf),
 [Properties of Variance](https://en.wikipedia.org/wiki/Variance#Properties)\
-[Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [Bayes Rule](https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb)
 
 ### Probability Distributions
@@ -43,6 +42,14 @@ This collection aims to gather blogs and other online resources explaining basic
 [Partial Correlation](https://towardsdatascience.com/partial-correlation-508353cd8b5)\
 [Kendall Rank Correlation](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient)\
 [Wald Wolfowitz Run Test](https://accendoreliability.com/the-wald-wolfowitz-run-test-for-two-small-samples/)
+
+
+### Estimators
+[Estimators](https://slideplayer.com/slide/16203181/)\
+[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
+[Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
+[MLE vs MAP Estimation](https://medium.com/towards-data-science/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d)\
+[MLE vs MAP Bayesian Inference](https://medium.com/towards-data-science/mle-map-and-bayesian-inference-3407b2d6d4d9)
 
 ### Hypothesis Testing
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
@@ -125,10 +132,6 @@ This collection aims to gather blogs and other online resources explaining basic
 [Monty Hall](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)\
 [Russels Paradox](https://www.quora.com/What-in-laymans-terms-is-Russells-Paradox)
 
-
-### Estimators
-[Estimators](https://slideplayer.com/slide/16203181/)\
-[Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)
 
 
 ### Bayesian Statistics
