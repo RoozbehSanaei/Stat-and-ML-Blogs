@@ -1,5 +1,5 @@
 # Statistics and Machine Learning Blogs
-This collection aims to gather blogs and other online resources explaining basic statistical and machine learning concepts simply and clearly.
+Every online blogger or course often good at explaining certain concepts, this collection aims to gather online resources which best explain each concept of machine learning.
 
 
 ## Probability 
