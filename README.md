@@ -53,6 +53,7 @@ Every online blog or course is often good at explaining certain concepts, this c
 
 ### Hypothesis Testing
 [Law of Large Numbers](https://www.probabilitycourse.com/chapter7/7_1_1_law_of_large_numbers.php)\
+[Difference between Strong and Weak laws of large numbers](https://math.stackexchange.com/questions/2024255/what-is-the-difference-between-the-weak-and-strong-law-of-large-numbers)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)
 
 #### Z-test
