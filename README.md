@@ -9,7 +9,7 @@ Each statistics/machine learning concept is best explained by certain blogs or o
 [pdf,cdf,ppt](https://www.itl.nist.gov/div898/handbook/eda/section3/eda362.htm)\
 [Quantiles](https://prepnuggets.com/glossary/quantile/)\
 [Experiment, Sample space, Event, Probability function, Random variable](http://www.cs.toronto.edu/~anikolov/CSC473W20/Probability.pdf)\
-[Properties of cdf and pdf](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)\
+[Properties of cdf and pdf](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/bc2aecd33d981fe4625fa8a434a9dca7_MIT18_05S14_Reading7a.pdf)\
 [Transformations of Random Variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)\
 [Joint Probability Distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution)\
 [Expected Values](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/79a290ef627e8f975fcbf93ff869d8ec_MIT18_05S14_Reading4b.pdf),
