@@ -1,6 +1,8 @@
 # Statistics and Machine Learning Blogs
 Each statistics/machine learning concept is best explained by certain blogs or online materials, this collection aims to gather the resources which explains concepts of statistics and foundational machine learning the best.
 
+## Defintions
+[Defintions](https://docs.google.com/document/d/15s3CQWFRn-HrBmbDfMZz6LtSqr9TT-lsZteaFNZPky8/edit?usp=sharing)
 
 ## Probability 
 [Set theory](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/01%3A_Foundations/1.01%3A_Sets)\
