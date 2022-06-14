@@ -45,7 +45,7 @@ Not everyone is good at explaining every concept and each concept is only best e
 
 
 ### Estimators
-[Estimators](https://slideplayer.com/slide/16203181/)\
+[Estimators](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)/07%3A_Point_Estimation/7.01%3A_Estimators)\
 [Difference between estimator and statistics](https://stats.stackexchange.com/questions/47728/what-is-the-difference-between-an-estimator-and-a-statistic)\
 [Maximum Likelihood Estimation](https://online.stat.psu.edu/stat504/lesson/1/1.5)\
 [MLE vs MAP Estimation](https://medium.com/towards-data-science/a-gentle-introduction-to-maximum-likelihood-estimation-and-maximum-a-posteriori-estimation-d7c318f9d22d)\
