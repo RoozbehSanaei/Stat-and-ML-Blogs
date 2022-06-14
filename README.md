@@ -36,7 +36,7 @@ Each statistics/machine learning concept is best explained by certain blogs or o
 
 
 ### Correlation 
-[Covariance](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
+[Covariance](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/resources/mit18_05s14_reading7b/)\
 [Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)\
 [Pearson Correlation](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Statistics_Using_Technology_(Kozak)/10%3A_Regression_and_Correlation/10.02%3A_Correlation)\
 [Partial Correlation](https://towardsdatascience.com/partial-correlation-508353cd8b5)\
