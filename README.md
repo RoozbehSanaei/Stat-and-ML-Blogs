@@ -56,14 +56,15 @@ Not every resource explains all concepts simply and clealy and each concept is o
 [Difference between Strong and Weak laws of large numbers](https://math.stackexchange.com/questions/2024255/what-is-the-difference-between-the-weak-and-strong-law-of-large-numbers)\
 [Central Limit Theorem](https://statisticsbyjim.com/basics/central-limit-theorem/)\
 [Effect Size](https://statisticsbyjim.com/basics/effect-sizes-statistics/)
+[p-value](https://www.scribbr.com/statistics/p-value/)\
+[Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
+[Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)
 
 #### Z-test
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
 [One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)\
 [Two Sample Z-test](http://www.stat.ucla.edu/~cochran/stat10/winter/lectures/lect21.html)\
-[p-value](https://www.scribbr.com/statistics/p-value/)\
-[Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
-[Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)
+
 #### t-rest
 [t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution#How_Student's_distribution_arises_from_sampling)\
 [Paired t-test](https://www.technologynetworks.com/informatics/articles/paired-vs-unpaired-t-test-differences-assumptions-and-hypotheses-330826)\
