@@ -67,7 +67,8 @@ Not every resource explains all concepts simply and clealy and each concept is o
 #### t-rest
 [t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution#How_Student's_distribution_arises_from_sampling)\
 [Paired t-test](https://www.technologynetworks.com/informatics/articles/paired-vs-unpaired-t-test-differences-assumptions-and-hypotheses-330826)\
-[Two Sample t-test, pooled and unpooled variances](https://online.stat.psu.edu/stat500/lesson/7/7.3/7.3.1)
+[UnPaird t-test, Pooled t-test, Welch's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test#Independent_two-sample_t-test)
+
 #### Chi-square test
 [Chi-square distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)\
 [Chi-square test proof](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture11.pdf)\
