@@ -72,7 +72,6 @@ Not every resource explains all concepts simply and clealy and each concept is o
 
 #### Chi-square test
 [Chi-square distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)\
-[Chi-square test proof](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/lecture11.pdf)\
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)
 
 #### Non-Paramteric Tests 
