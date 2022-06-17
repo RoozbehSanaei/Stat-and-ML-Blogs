@@ -129,7 +129,7 @@ Not every resource explains all concepts simply and clealy and each concept is o
 [MANOVA](https://online.stat.psu.edu/stat505/lesson/8)\
 [PCA](https://online.stat.psu.edu/stat505/lesson/11)\
 [Factor Analysis](https://online.stat.psu.edu/stat505/lesson/12)\
-[Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)
+[Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)\
 [Structure Equation Modeling](https://psu-psychology.github.io/psy-597-SEM/)
 
 #### Statistical Paradoxes
