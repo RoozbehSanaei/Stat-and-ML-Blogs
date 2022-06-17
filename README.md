@@ -87,7 +87,7 @@ Not every resource explains all concepts simply and clealy and each concept is o
 [Ordinary Least Squares through minimising the sum of square errors](https://www.timlrx.com/blog/notes-on-regression-ols)\
 [Projection and Orthogonality](https://www.timlrx.com/blog/notes-on-regression-geometry)\
 [Method of Moments](https://en.wikipedia.org/wiki/Method_of_moments_(statistics))\
-[Linear Regression as Maximum Likelihoods](https://www.timlrx.com/blog/notes-on-regression-maximum-likelihood)
+[Linear Regression as Maximum Likelihoods](https://www.timlrx.com/blog/notes-on-regression-maximum-likelihood)\
 [Regression vs Correlation coefficients](https://www.graphpad.com/support/faq/what-is-the-difference-between-correlation-and-linear-regression/)\
 [Bayesian Linear Regression](https://www.inovex.de/de/blog/bayesian-linear-regression-in-machine-learning/)\
 [Applying SVD to Linear Regression](https://www.timlrx.com/blog/notes-on-regression-singular-vector-decomposition)\
