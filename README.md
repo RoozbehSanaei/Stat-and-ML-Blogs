@@ -130,6 +130,7 @@ Not every resource explains all concepts simply and clealy and each concept is o
 [PCA](https://online.stat.psu.edu/stat505/lesson/11)\
 [Factor Analysis](https://online.stat.psu.edu/stat505/lesson/12)\
 [Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)
+[Structure Equation Modeling](https://psu-psychology.github.io/psy-597-SEM/)
 
 #### Statistical Paradoxes
 [Monty Hall](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)\
@@ -163,6 +164,8 @@ Not every resource explains all concepts simply and clealy and each concept is o
 
 [Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)\
 [Bootstrapping](https://online.stat.psu.edu/stat500/lesson/11/11.2)
+
+
 
 ## Machine Learning
 
