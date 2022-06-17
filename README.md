@@ -63,7 +63,7 @@ Not every resource explains all concepts simply and clealy and each concept is o
 #### Z-test
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
 [One Proportion Z-test](https://www.statology.org/one-proportion-z-test/)\
-[Two Sample Z-test](http://www.stat.ucla.edu/~cochran/stat10/winter/lectures/lect21.html)\
+[Two Sample Z-test](http://www.stat.ucla.edu/~cochran/stat10/winter/lectures/lect21.html)
 
 #### t-rest
 [t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution#How_Student's_distribution_arises_from_sampling)\
