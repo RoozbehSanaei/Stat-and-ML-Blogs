@@ -1,5 +1,5 @@
 # Statistics and Machine Learning Blogs
-Not every one can explain all concepts well and each concept is only best explained by certain resources, this collection aims to gather the resources that explain  statistics and foundational machine learning concepts the best.
+Not every one is able to explain all concepts clear and each concept is only best explained in certain resources, this collection aims to gather the resources that explain  statistics and foundational machine learning concepts the best.
 
 [Defintions](https://docs.google.com/document/d/15s3CQWFRn-HrBmbDfMZz6LtSqr9TT-lsZteaFNZPky8/edit?usp=sharing)
 
