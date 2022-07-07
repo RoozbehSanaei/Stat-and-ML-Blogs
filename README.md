@@ -72,6 +72,7 @@ this collection aims to gather resources that explain foundational concepts of s
 
 #### Chi-square test
 [Chi-square distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)\
+[Pearson's Theorem](https://ocw.mit.edu/courses/18-443-statistics-for-applications-fall-2003/708680f9de8209158ca6462577a46a56_lec23.pdf)\
 [Chi-square test](https://en.wikipedia.org/wiki/Chi-squared_test)
 
 #### Non-Paramteric Tests 
