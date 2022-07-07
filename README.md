@@ -1,5 +1,5 @@
 # Statistics and Machine Learning Blogs
-this collection aims to gather  resources which explain  foundational statistics and machine learning concepts simply and clearly.
+this collection aims to gather resources that explain foundational concepts of statistics and machine learning  simply and clearly.
 
 [Defintions](https://docs.google.com/document/d/15s3CQWFRn-HrBmbDfMZz6LtSqr9TT-lsZteaFNZPky8/edit?usp=sharing)
 
@@ -130,7 +130,11 @@ this collection aims to gather  resources which explain  foundational statistics
 [PCA](https://online.stat.psu.edu/stat505/lesson/11)\
 [Factor Analysis](https://online.stat.psu.edu/stat505/lesson/12)\
 [Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)\
+
+#### Structure Equation Modeling
+[Terminology and Basics of SEM](http://davidakenny.net/cm/basics.htm)\
 [Structure Equation Modeling](https://psu-psychology.github.io/psy-597-SEM/)
+
 
 #### Statistical Paradoxes
 [Monty Hall](https://betterexplained.com/articles/understanding-the-monty-hall-problem/)\
