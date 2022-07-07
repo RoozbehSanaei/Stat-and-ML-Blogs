@@ -133,7 +133,7 @@ this collection aims to gather resources that explain foundational concepts of s
 
 #### Structure Equation Modeling
 [Basics of SEM](http://davidakenny.net/cm/causalm.htm)\
-[Structure Equation Modeling](https://psu-psychology.github.io/psy-597-SEM/)
+[More detailed tutorialof SEM](https://psu-psychology.github.io/psy-597-SEM/)
 
 
 #### Statistical Paradoxes
