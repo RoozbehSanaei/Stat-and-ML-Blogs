@@ -132,7 +132,7 @@ this collection aims to gather resources that explain foundational concepts of s
 [Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)\
 
 #### Structure Equation Modeling
-[Terminology and Basics of SEM](http://davidakenny.net/cm/basics.htm)\
+[Basics of SEM](http://davidakenny.net/cm/causalm.htm)\
 [Structure Equation Modeling](https://psu-psychology.github.io/psy-597-SEM/)
 
 
