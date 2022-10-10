@@ -215,3 +215,6 @@ this collection aims to gather resources that explain foundational concepts of s
 [Sarima, Sarimax](https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6)\
 [Prophet](https://ulvgard.se/articles/trend_and_seasonality_decomposition_with_prophet/)\
 [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
+### Anomality Detection 
+[General Introduction](https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-i-b1a2f389ffcb)
