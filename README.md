@@ -221,4 +221,5 @@ This collection aims to gather resources that explain foundational concepts of s
 [General Introduction](https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-i-b1a2f389ffcb)\
 [Isolation Forest](https://towardsdatascience.com/isolation-forest-the-anomaly-detection-algorithm-any-data-scientist-should-know-1a99622eec2d)\
 [One Class SVM](http://rvlasveld.github.io/blog/2013/07/12/introduction-to-one-class-support-vector-machines/)\
-[Local Outlier Factor](https://medium.com/towards-data-science/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe)
+[Local Outlier Factor](https://medium.com/towards-data-science/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe)\
+[Robust Covariance Estimator](https://medium.com/towards-data-science/robust-covariance-for-anomaly-detection-9c68b1ec4c4b)
