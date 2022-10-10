@@ -211,6 +211,6 @@ this collection aims to gather resources that explain foundational concepts of s
 [Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
 
 ### Time Series Modeling
-[Arima] (https://medium.com/analytics-vidhya/a-thorough-introduction-to-arima-models-987a24e9ff71)\
-[Sarimax, Sarimax] (https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6)\
-[Prophet] (https://ulvgard.se/articles/trend_and_seasonality_decomposition_with_prophet/)
+[Arima](https://medium.com/analytics-vidhya/a-thorough-introduction-to-arima-models-987a24e9ff71)\
+[Sarimax, Sarimax](https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6)\
+[Prophet](https://ulvgard.se/articles/trend_and_seasonality_decomposition_with_prophet/)
