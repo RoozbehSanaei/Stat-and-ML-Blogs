@@ -218,4 +218,5 @@ This collection aims to gather resources that explain foundational concepts of s
 [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 
 ### Anomality Detection 
-[General Introduction](https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-i-b1a2f389ffcb)
+[General Introduction](https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-i-b1a2f389ffcb)\
+[Isolation Forest](https://towardsdatascience.com/isolation-forest-the-anomaly-detection-algorithm-any-data-scientist-should-know-1a99622eec2d)
