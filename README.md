@@ -174,6 +174,11 @@ this collection aims to gather resources that explain foundational concepts of s
 
 ## Machine Learning
 
+[Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
+[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
+[Data Set Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)\
+[Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
+
 ### Data Splitting
 [The Importance of Data Splitting](https://mlu-explain.github.io/train-test-validation/)\
 [Training, Development and Test errors](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)
@@ -205,10 +210,6 @@ this collection aims to gather resources that explain foundational concepts of s
 [Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)\
 [Global Surrogate](https://christophm.github.io/interpretable-ml-book/global.html)
 
-[Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
-[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
-[Data Set Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)\
-[Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
 
 ### Time Series Modeling
 [Arima](https://medium.com/analytics-vidhya/a-thorough-introduction-to-arima-models-987a24e9ff71)\
