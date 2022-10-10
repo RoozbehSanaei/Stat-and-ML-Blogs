@@ -1,5 +1,5 @@
 # Statistics and Machine Learning Blogs
-this collection aims to gather resources that explain foundational concepts of statistics and machine learning  simply and clearly.
+This collection aims to gather resources that explain foundational concepts of statistics and machine learning  simply and clearly.
 
 [Defintions](https://docs.google.com/document/d/15s3CQWFRn-HrBmbDfMZz6LtSqr9TT-lsZteaFNZPky8/edit?usp=sharing)
 
