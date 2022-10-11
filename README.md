@@ -130,7 +130,7 @@ This collection aims to gather resources that explain foundational concepts of s
 [MANOVA](https://online.stat.psu.edu/stat505/lesson/8)\
 [PCA](https://online.stat.psu.edu/stat505/lesson/11)\
 [Factor Analysis](https://online.stat.psu.edu/stat505/lesson/12)\
-[Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)\
+[Canonical Analysis](https://online.stat.psu.edu/stat505/lesson/13)
 
 #### Structure Equation Modeling
 [Basics](http://davidakenny.net/cm/causalm.htm)\
