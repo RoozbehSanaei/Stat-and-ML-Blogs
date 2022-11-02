@@ -227,5 +227,5 @@ This collection aims to gather resources that explain foundational concepts of s
 ### Transformers
 [Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention)\
 [Transformer](https://jalammar.github.io/illustrated-transformer/)\
-[Line-by-line implementation of  “Attention is All You Need”](http://nlp.seas.harvard.edu/2018/04/03/attention.html)\
+[Line-by-line implementation of  “Attention is All You Need”](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
