@@ -223,3 +223,9 @@ This collection aims to gather resources that explain foundational concepts of s
 [One Class SVM](http://rvlasveld.github.io/blog/2013/07/12/introduction-to-one-class-support-vector-machines/)\
 [Local Outlier Factor](https://medium.com/towards-data-science/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe)\
 [Robust Covariance Estimator](https://medium.com/towards-data-science/robust-covariance-for-anomaly-detection-9c68b1ec4c4b)
+
+### Transformers
+[Mechanics of Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention)\
+[Transformer](https://jalammar.github.io/illustrated-transformer/)\
+[Line-by-line implementation of  “Attention is All You Need”](http://nlp.seas.harvard.edu/2018/04/03/attention.html)\
+
