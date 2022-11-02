@@ -174,15 +174,6 @@ This collection aims to gather resources that explain foundational concepts of s
 
 ## Machine Learning
 
-[Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
-[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
-[Data Set Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)\
-[Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
-
-### Data Splitting
-[The Importance of Data Splitting](https://mlu-explain.github.io/train-test-validation/)\
-[Training, Development and Test errors](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)
-
 ### Decision Trees
 [Decision Trees](https://mlu-explain.github.io/decision-tree/)\
 [ID3, C4.5, C5.0, CART decision tree difference](https://blog.actorsfit.com/a?ID=01800-16f8ea67-422e-4850-b0b0-3749e5181112)\
@@ -222,6 +213,18 @@ This collection aims to gather resources that explain foundational concepts of s
 [One Class SVM](http://rvlasveld.github.io/blog/2013/07/12/introduction-to-one-class-support-vector-machines/)\
 [Local Outlier Factor](https://medium.com/towards-data-science/local-outlier-factor-for-anomaly-detection-cc0c770d2ebe)\
 [Robust Covariance Estimator](https://medium.com/towards-data-science/robust-covariance-for-anomaly-detection-9c68b1ec4c4b)
+
+### Data
+[Data Cleaning](https://medium.com/towards-data-science/the-ultimate-guide-to-data-cleaning-3969843991d4)\
+[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)\
+[Data Set Shift](https://towardsdatascience.com/understanding-dataset-shift-f2a5a262a766)\
+[Covariate Shift](https://www.analyticsvidhya.com/blog/2017/07/covariate-shift-the-hidden-problem-of-real-world-data-science/#:~:text=4.%20Covariate%20Shift,and%20understand%20it.)
+
+#### Data Splitting
+[The Importance of Data Splitting](https://mlu-explain.github.io/train-test-validation/)\
+[Training, Development and Test errors](https://docs.google.com/presentation/d/1x5MIh1ye8Q2Lc3atl_7sFXw1y1aLJqLV/edit?usp=sharing&ouid=103693764734186936730&rtpof=true&sd=true)
+
+
 
 ## Deep Learning
 [My sides on Convolutional Neural Networks](https://www.slideshare.net/rsanaei/convolutional-neural-networks-249580831)\
