@@ -58,7 +58,8 @@ This collection aims to gather resources that explain foundational concepts of s
 [Effect Size](https://statisticsbyjim.com/basics/effect-sizes-statistics/)
 [p-value](https://www.scribbr.com/statistics/p-value/)\
 [Right, Left, and Two tailed test](https://courses.lumenlearning.com/wm-concepts-statistics/chapter/hypothesis-test-for-difference-in-two-population-proportions-4-of-6/)\
-[Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)
+[Type I and Type II Errors](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)\
+[SVD and PCA](https://medium.com/@jonathan-hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491)
 
 #### Z-test
 [Z-Score](https://statisticsbyjim.com/basics/z-score/)\
